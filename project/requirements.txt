@@ -1,0 +1,7 @@
+Flask==2.0.1
+Flask-PyMongo==2.3.0
+Flask-RESTful==0.3.9
+marshmallow==3.13.0
+PyJWT==2.1.0
+Werkzeug==2.0.1
+bcrypt==3.2.0  # Si tu utilises bcrypt pour les mots de passe
